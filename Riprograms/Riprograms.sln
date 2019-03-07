@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Riprograms", "Riprograms\Riprograms.csproj", "{30F82163-ACCA-4F82-BB4B-269A8A4C09D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30F82163-ACCA-4F82-BB4B-269A8A4C09D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30F82163-ACCA-4F82-BB4B-269A8A4C09D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30F82163-ACCA-4F82-BB4B-269A8A4C09D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30F82163-ACCA-4F82-BB4B-269A8A4C09D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9644384B-6F88-4C60-83E7-BB5763944183}
+	EndGlobalSection
+EndGlobal
